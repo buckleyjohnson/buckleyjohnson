@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... whatever you're willing to pay for.
 - 📫 How to reach me ...buck@coolads.com
 
-Check out.  www.buckleyjohnson.com
+
 
 <!---
 buckleyjohnson/buckleyjohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
