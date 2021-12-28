@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buckleyjohnson
 - 👀 I’m interested in ...Flutter, Swift and stuff.
 - 🌱 I’m currently learning ... more about Dart.
-- 💞️ I’m looking to collaborate on ... whatever you're willing to pay for.
+- 💞️ I’m looking to collaborate on ... whatever.
 - 📫 How to reach me ...buck@coolads.com
 
 
